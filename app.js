@@ -1,5 +1,3 @@
-// @author: Jake Flynn jflynn@reapit.com
-//
 // @desc: 	Configuration UI
 // 			1. Loads in an XSD file, generates form inputs using the XSD as a reference of the structure
 // 			2. Loads the client's relevant XML file (e.g. webservice.xsd => webservice.xml) and populates the form inputs
